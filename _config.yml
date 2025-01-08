@@ -1,4 +1,4 @@
 theme: jekyll-theme-minimal
 title: Fishily's test
 description: Blah
-baseurl: '/' 
+baseurl:
