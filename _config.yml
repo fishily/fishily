@@ -1,4 +1,5 @@
 theme: jekyll-theme-minimal
 title: Fishily's test
 description: Blah
+url: 'https://fishily.github.io/'
 baseurl:
